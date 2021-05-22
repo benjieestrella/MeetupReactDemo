@@ -23,3 +23,17 @@
 .content h3 {
   font-size: 1.25rem;
 }
+
+.actions {
+  text-align: center;
+}
+.actions button {
+  padding: 10px 10px;
+  border-color: #e4124a;
+  color: #e4124a;
+  background-color: white;
+  border-radius: 4px 4px;
+  font-size: 1rem;
+  margin-bottom: 25px;
+  cursor: pointer;
+}
